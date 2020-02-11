@@ -1,0 +1,48 @@
+.Parent{
+    
+    margin-left: 75%;
+    display: inline-block;
+    color: #2bce9b;
+}
+
+
+.Forms{
+	padding: 22px;
+}
+.BG_report{
+	border-style: solid;
+	margin: 100px 400px;
+	
+	border-radius: 5px;
+
+}
+.button {
+	overflow: auto;
+	padding: 14px;
+	background-color: grey;
+	
+	
+
+}
+
+.bug{
+
+	background-color: grey;
+		padding: 8px;
+
+}
+
+
+.RT {width: 100%;
+	border-radius: 5px;
+
+}
+.RT1 {width: 100%;
+	border-radius: 4px;
+	background-color: #2bce9b;
+	padding: 8px 8px;
+		
+
+}
+
+

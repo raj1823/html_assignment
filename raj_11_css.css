@@ -1,0 +1,123 @@
+*{
+    margin:0;
+     box-sizing:border-box;
+    padding:0;
+
+   
+}
+body{
+     color:white; 
+
+     background-color: #363636;
+   
+}
+.MHeader{
+    /*  */
+    padding-top:10px;
+    padding-bottom:30px;
+    padding-left:50px;
+    padding-right:100px;
+    
+}
+.IDiv{
+    margin:auto;
+    width:960px;
+}
+.InnerDiv{
+    margin:25px;
+ 
+    background-color:#363636;
+       margin-top:0px;
+    margin-bottom:0px;
+}
+.NDiv li{
+    display:inline;
+    margin-right:15px;
+    
+}
+.SDiv{
+     padding-top: 20px;
+
+    background-color: white;
+   
+}
+
+
+.S1Div{
+    background-color: #363636;
+    
+    text-align:center;
+
+    height:360px;
+}
+h2{
+    padding-top: 180px;
+}
+.NDiv ul{
+    list-style-type: none;
+   
+    padding:10px;
+
+     background-color: #212121;
+}
+.Lists{
+        display:flex;
+
+    }
+
+
+
+.S2Div{
+    background-color: #d8d8d8;
+    
+    color: #363636;
+text-align:justify;
+    padding:10px;}
+
+.H1{
+        color: #bbb;
+    }
+
+.Cards{
+    border:1px solid#bbb;
+  padding:2px;
+  
+  margin-right:23px;
+}
+.Cards1{
+    height:315px;
+    width: 215px;
+
+    background-color: #363636;
+    text-align:center;
+
+    line-height:315px;
+}
+.Foot{
+    background-color: #212121;
+
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+.Container{
+    color:#bbb;
+    padding: 5px 16px;
+    background-color:#ccc;
+
+}
+
+
+.Span2{
+    
+    margin-right:120px;
+margin-left:400px;
+}
+
+
+.Span1{
+    margin-left:140px;
+    
+    margin-right:400px;
+}
+
